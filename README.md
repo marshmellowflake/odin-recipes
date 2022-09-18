@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first Github Project. I will get to demonstrate my newly gained skills in the basics of html. This might include the adding of links, images, and the use of elements and attributes, whatever it takes to create a basic (and cool) website. 
